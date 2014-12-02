@@ -1,0 +1,103 @@
+== 3 ==
+&rlm;[[:3DES]]&rlm; (de)
+
+== A ==
+&rlm;[[:ADSL]]&rlm; (sv) |
+&rlm;[[:Age of Empires]]&rlm; (de) |
+&rlm;[[:An]]&rlm; (fr) |
+&rlm;[[:At]]&rlm; (hu) |
+&rlm;[[:Athlon]]&rlm; (hu)
+
+== B ==
+&rlm;[[:Because Of You (קלי קלרקסון)]]&rlm; (de) |
+&rlm;[[:Bootstrapping]]&rlm; (en) |
+&rlm;[[:Bourne Shell]]&rlm; (de)
+
+== C ==
+&rlm;[[:CERA]]&rlm; (fr) |
+&rlm;[[:Civilization IV]]&rlm; (de) |
+&rlm;[[:Civilization V]]&rlm; (de) |
+&rlm;[[:Counter-Strike Online]]&rlm; (ja) |
+&rlm;[[:Creepin on ah Come Up]]&rlm; (pt)
+
+== D ==
+&rlm;[[:DDR SDRAM]]&rlm; (el fi) |
+&rlm;[[:DRAM]]&rlm; (el) |
+&rlm;[[:Dangerous]]&rlm; (it) |
+&rlm;[[:Day of Defeat: Source]]&rlm; (de) |
+&rlm;[[:Desert Bus For Hope]]&rlm; (en)
+
+== E ==
+&rlm;[[:Empire Earth III]]&rlm; (de)
+
+== F ==
+&rlm;[[:F/A-18 סופר הורנט]]&rlm; (de fr) |
+&rlm;[[:FHSS]]&rlm; (ja) |
+&rlm;[[:FN PS90]]&rlm; (en) |
+&rlm;[[:FPGA]]&rlm; (fr) |
+&rlm;[[:FXO]]&rlm; (en)
+
+== G ==
+&rlm;[[:GCF]]&rlm; (en) |
+&rlm;[[:Game Boy Advance]]&rlm; (hu) |
+&rlm;[[:General Packet Radio Service]]&rlm; (ja) |
+&rlm;[[:Geo Eye 1]]&rlm; (fi) |
+&rlm;[[:Grand Theft Auto 2]]&rlm; (de) |
+&rlm;[[:Grand Theft Auto: Episodes from Liberty City]]&rlm; (de)
+
+== H ==
+&rlm;[[:Halo 3: ODST]]&rlm; (de)
+
+== I ==
+&rlm;[[:ISO 216]]&rlm; (pl) |
+&rlm;[[:ISO 3166-1]]&rlm; (sv) |
+&rlm;[[:If I Fell]]&rlm; (it) |
+&rlm;[[:In the End]]&rlm; (lt) |
+&rlm;[[:Ivalice Alliance]]&rlm; (en)
+
+== K ==
+&rlm;[[:KSVCD]]&rlm; (en)
+
+== L ==
+&rlm;[[:L3/35]]&rlm; (de)
+
+== M ==
+&rlm;[[:MPEG-2]]&rlm; (nl) |
+&rlm;[[:Master of Orion II]]&rlm; (de) |
+&rlm;[[:MicroSD]]&rlm; (uk)
+
+== N ==
+&rlm;[[:NAND לוגי]]&rlm; (es) |
+&rlm;[[:NOR לוגי]]&rlm; (es it) |
+&rlm;[[:Nobody's Home]]&rlm; (lt)
+
+== P ==
+&rlm;[[:Piggies]]&rlm; (it)
+
+== Q ==
+&rlm;[[:QWERTY]]&rlm; (it)
+
+== R ==
+&rlm;[[:R2-D2]]&rlm; (de) |
+&rlm;[[:RDRAM]]&rlm; (it) |
+&rlm;[[:RJ-11]]&rlm; (fi) |
+&rlm;[[:RJ-48]]&rlm; (en) |
+&rlm;[[:RJ-50]]&rlm; (en) |
+&rlm;[[:RJ-61]]&rlm; (en) |
+&rlm;[[:RJ-9]]&rlm; (en) |
+&rlm;[[:RTFM]]&rlm; (de) |
+&rlm;[[:Rape Me]]&rlm; (it) |
+&rlm;[[:Received Pronunciation]]&rlm; (de) |
+&rlm;[[:Runaway]]&rlm; (fr)
+
+== S ==
+&rlm;[[:SDRAM]]&rlm; (fi) |
+&rlm;[[:SOS]]&rlm; (de) |
+&rlm;[[:Songs of Faith and Devotion Live]]&rlm; (es)
+
+== T ==
+&rlm;[[:The Elder Scrolls: Morrowind]]&rlm; (de) |
+&rlm;[[:The Jimi Hendrix Experience]]&rlm; (de)
+
+== U ==
+&rlm;[[:UTF-8]]&rlm; (fi)

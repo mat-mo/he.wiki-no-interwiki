@@ -1,0 +1,414 @@
+== W 1 ==
+&rlm;[[:W.]]&rlm; |
+&rlm;[[:WC and the Maad Circle]]&rlm; |
+&rlm;[[:WC-135 קונסטנט פיניקס]]&rlm; |
+&rlm;[[:WCW]]&rlm; |
+&rlm;[[:WD-40]]&rlm; |
+&rlm;[[:WE3]]&rlm; |
+&rlm;[[:WGS84]]&rlm; |
+&rlm;[[:WHA]]&rlm; |
+&rlm;[[:WIN.INI]]&rlm; |
+&rlm;[[:WML]]&rlm; |
+&rlm;[[:WNBA]]&rlm; |
+&rlm;[[:WOW air]]&rlm; |
+&rlm;[[:WPA]]&rlm; |
+&rlm;[[:WUSA]]&rlm; |
+&rlm;[[:WWE RAW]]&rlm; |
+&rlm;[[:WWE]]&rlm; |
+&rlm;[[:WWOOF]]&rlm; |
+&rlm;[[:WWO]]&rlm; |
+&rlm;[[:WYSE International]]&rlm; |
+&rlm;[[:WYSIWYG]]&rlm; |
+&rlm;[[:W]]&rlm; |
+&rlm;[[:Wait Your Turn]]&rlm; |
+&rlm;[[:Waiting For The Sun]]&rlm; |
+&rlm;[[:Waka Waka (This Time for Africa)]]&rlm; |
+&rlm;[[:Wake Up Call]]&rlm; |
+&rlm;[[:Wake Up!]]&rlm; |
+&rlm;[[:Waking Up in Vegas]]&rlm; |
+&rlm;[[:Walk Away]]&rlm; |
+&rlm;[[:Walk Off The Earth]]&rlm; |
+&rlm;[[:Walk This Way]]&rlm; |
+&rlm;[[:Walk of Ideas]]&rlm; |
+&rlm;[[:Walk, Don't Run]]&rlm; |
+&rlm;[[:Wall Street Journal]]&rlm; |
+&rlm;[[:Warchest]]&rlm; |
+&rlm;[[:Warning:]]&rlm; |
+&rlm;[[:Warrior]]&rlm; |
+&rlm;[[:Watch Dogs]]&rlm; |
+&rlm;[[:Watch the Throne]]&rlm; |
+&rlm;[[:Watchman]]&rlm; |
+&rlm;[[:Waterloo (שיר)]]&rlm; |
+&rlm;[[:Waterloo Lily]]&rlm; |
+&rlm;[[:Watershed]]&rlm; |
+&rlm;[[:Watertown]]&rlm; |
+&rlm;[[:Wavelength-Division Multiplexing]]&rlm; |
+&rlm;[[:Wavin' Flag]]&rlm; |
+&rlm;[[:Waze]]&rlm; |
+&rlm;[[:We Are Young]]&rlm; |
+&rlm;[[:We Are the Champions]]&rlm; |
+&rlm;[[:We Are the World]]&rlm; |
+&rlm;[[:We Can't Dance]]&rlm; |
+&rlm;[[:We Care a Lot]]&rlm; |
+&rlm;[[:We Die Young]]&rlm; |
+&rlm;[[:We Found Love]]&rlm; |
+&rlm;[[:We Ride (שיר)]]&rlm; |
+&rlm;[[:We Shall Overcome]]&rlm; |
+&rlm;[[:We Will Rock You]]&rlm; |
+&rlm;[[:WeChat]]&rlm; |
+&rlm;[[:Weak two bid]]&rlm; |
+&rlm;[[:Wear Sunscreen]]&rlm; |
+&rlm;[[:Web (דפדפן)]]&rlm; |
+&rlm;[[:Web Services Description Language]]&rlm; |
+&rlm;[[:Web bug]]&rlm; |
+&rlm;[[:Web container]]&rlm; |
+&rlm;[[:Web service]]&rlm; |
+&rlm;[[:WebKit]]&rlm; |
+&rlm;[[:WebM]]&rlm; |
+&rlm;[[:WebOS]]&rlm; |
+&rlm;[[:WebSphere Application Server]]&rlm;
+
+== W 2 ==
+&rlm;[[:WebSphere MQ]]&rlm; |
+&rlm;[[:Welcome (אלבום)]]&rlm; |
+&rlm;[[:Welcome to My DNA]]&rlm; |
+&rlm;[[:West Ryder Pauper Lunatic Asylum]]&rlm; |
+&rlm;[[:Westside Connection]]&rlm; |
+&rlm;[[:Westwood Studios]]&rlm; |
+&rlm;[[:Wet Wet Wet]]&rlm; |
+&rlm;[[:Wham!]]&rlm; |
+&rlm;[[:What Goes Around... Comes Around]]&rlm; |
+&rlm;[[:What Hits!?]]&rlm; |
+&rlm;[[:What I've Done]]&rlm; |
+&rlm;[[:What If]]&rlm; |
+&rlm;[[:What Now]]&rlm; |
+&rlm;[[:What You're Doing]]&rlm; |
+&rlm;[[:What a Girl Wants]]&rlm; |
+&rlm;[[:What a Wonderful World]]&rlm; |
+&rlm;[[:What's My Name?]]&rlm; |
+&rlm;[[:Whatever People Say I Am, That's What I'm Not]]&rlm; |
+&rlm;[[:WhatsApp]]&rlm; |
+&rlm;[[:When Dream and Day Unite]]&rlm; |
+&rlm;[[:When I Come Around]]&rlm; |
+&rlm;[[:When I'm Sixty-Four]]&rlm; |
+&rlm;[[:When Love Takes Over]]&rlm; |
+&rlm;[[:When Your Heart Stops Beating]]&rlm; |
+&rlm;[[:When a Man Loves a Woman]]&rlm; |
+&rlm;[[:When the Sun Goes Down]]&rlm; |
+&rlm;[[:When the Tigers Broke Free]]&rlm; |
+&rlm;[[:Where Are You?]]&rlm; |
+&rlm;[[:Where Do You Go To (My Lovely)?]]&rlm; |
+&rlm;[[:Where Have You Been]]&rlm; |
+&rlm;[[:Where Them Girls At]]&rlm; |
+&rlm;[[:While My Guitar Gently Weeps]]&rlm; |
+&rlm;[[:White Christmas]]&rlm; |
+&rlm;[[:White Light/White Heat]]&rlm; |
+&rlm;[[:White Rabbit Radio]]&rlm; |
+&rlm;[[:White Shadows]]&rlm; |
+&rlm;[[:Who Do We Think We Are]]&rlm; |
+&rlm;[[:Who Shot Ya?]]&rlm; |
+&rlm;[[:Who You Are]]&rlm; |
+&rlm;[[:Who You Love]]&rlm; |
+&rlm;[[:Who's Next]]&rlm; |
+&rlm;[[:Who's That Chick?]]&rlm; |
+&rlm;[[:Whoa, Nelly!]]&rlm; |
+&rlm;[[:Whole Lotta Love]]&rlm; |
+&rlm;[[:Why Don't We Do It in the Road?]]&rlm; |
+&rlm;[[:Why I Love You]]&rlm; |
+&rlm;[[:Wi-Fi]]&rlm; |
+&rlm;[[:WiMAX]]&rlm; |
+&rlm;[[:Wide Awake]]&rlm; |
+&rlm;[[:Widow's Weeds]]&rlm; |
+&rlm;[[:Wie schön leuchtet der Morgenstern]]&rlm; |
+&rlm;[[:Wii U]]&rlm; |
+&rlm;[[:Wii]]&rlm; |
+&rlm;[[:WikiMapia]]&rlm; |
+&rlm;[[:Wikispaces]]&rlm; |
+&rlm;[[:Wild Gunman]]&rlm; |
+&rlm;[[:Wild Honey Pie]]&rlm; |
+&rlm;[[:Wilderness]]&rlm; |
+&rlm;[[:Will You Be There]]&rlm; |
+&rlm;[[:Will.i.am]]&rlm; |
+&rlm;[[:WinRAR]]&rlm; |
+&rlm;[[:WinZip]]&rlm; |
+&rlm;[[:Winamp]]&rlm; |
+&rlm;[[:Wind & Wuthering]]&rlm; |
+&rlm;[[:Wind of Change]]&rlm; |
+&rlm;[[:Window Maker]]&rlm; |
+&rlm;[[:Windows 10]]&rlm; |
+&rlm;[[:Windows 2000]]&rlm;
+
+== W 3 ==
+&rlm;[[:Windows 7]]&rlm; |
+&rlm;[[:Windows 8]]&rlm; |
+&rlm;[[:Windows Aero]]&rlm; |
+&rlm;[[:Windows Azure]]&rlm; |
+&rlm;[[:Windows Communication Foundation]]&rlm; |
+&rlm;[[:Windows Defender]]&rlm; |
+&rlm;[[:Windows Explorer]]&rlm; |
+&rlm;[[:Windows Genuine Advantage]]&rlm; |
+&rlm;[[:Windows Live Mail]]&rlm; |
+&rlm;[[:Windows Live Messenger]]&rlm; |
+&rlm;[[:Windows Media Center]]&rlm; |
+&rlm;[[:Windows Media Player]]&rlm; |
+&rlm;[[:Windows Movie Maker]]&rlm; |
+&rlm;[[:Windows Phone]]&rlm; |
+&rlm;[[:Windows PowerShell]]&rlm; |
+&rlm;[[:Windows Preinstallation Environment]]&rlm; |
+&rlm;[[:Windows Presentation Foundation]]&rlm; |
+&rlm;[[:Windows Server]]&rlm; |
+&rlm;[[:Windows To Go]]&rlm; |
+&rlm;[[:Windows Update]]&rlm; |
+&rlm;[[:Windows Vista]]&rlm; |
+&rlm;[[:Windows XP]]&rlm; |
+&rlm;[[:Windows on Windows]]&rlm; |
+&rlm;[[:Windows write]]&rlm; |
+&rlm;[[:Windrose Airlines]]&rlm; |
+&rlm;[[:Wine]]&rlm; |
+&rlm;[[:Wings]]&rlm; |
+&rlm;[[:Wir sind Helden]]&rlm; |
+&rlm;[[:Wired Equivalent Privacy]]&rlm; |
+&rlm;[[:Wired]]&rlm; |
+&rlm;[[:Wireless Application Protocol]]&rlm; |
+&rlm;[[:Wireless USB]]&rlm; |
+&rlm;[[:Wireshark]]&rlm; |
+&rlm;[[:Wish You Were Here]]&rlm; |
+&rlm;[[:Wishbone Ash]]&rlm; |
+&rlm;[[:With the Beatles]]&rlm; |
+&rlm;[[:Within Temptation]]&rlm; |
+&rlm;[[:Without You (דייוויד גטה)]]&rlm; |
+&rlm;[[:Without You I'm Nothing]]&rlm; |
+&rlm;[[:WoO]]&rlm; |
+&rlm;[[:Wolfenstein 3D]]&rlm; |
+&rlm;[[:Wolfenstein: Enemy Territory]]&rlm; |
+&rlm;[[:Woman in Love]]&rlm; |
+&rlm;[[:Womanizer]]&rlm; |
+&rlm;[[:Won't Go Home Without You]]&rlm; |
+&rlm;[[:Wonder Boy (סדרת משחקים)]]&rlm; |
+&rlm;[[:Wonderbook]]&rlm; |
+&rlm;[[:Wonderland]]&rlm; |
+&rlm;[[:Word of Mouf]]&rlm; |
+&rlm;[[:Words 3]]&rlm; |
+&rlm;[[:Work (שיר)]]&rlm; |
+&rlm;[[:Work Bitch]]&rlm; |
+&rlm;[[:Workgroup]]&rlm; |
+&rlm;[[:Works Volume II]]&rlm; |
+&rlm;[[:Works Volume I]]&rlm; |
+&rlm;[[:Works]]&rlm; |
+&rlm;[[:World Community Grid]]&rlm; |
+&rlm;[[:World Press Photo]]&rlm; |
+&rlm;[[:World Record]]&rlm; |
+&rlm;[[:World Scientific]]&rlm; |
+&rlm;[[:World Wide Web Consortium]]&rlm; |
+&rlm;[[:World Wide Web]]&rlm; |
+&rlm;[[:World of Glass]]&rlm; |
+&rlm;[[:World of Tanks]]&rlm; |
+&rlm;[[:WorldCat]]&rlm; |
+&rlm;[[:WorldWideWeb]]&rlm; |
+&rlm;[[:Would?]]&rlm; |
+&rlm;[[:WowWee]]&rlm; |
+&rlm;[[:Wrecking Ball]]&rlm; |
+&rlm;[[:Wubi]]&rlm;
+
+== X ==
+&rlm;[[:X Japan]]&rlm; |
+&rlm;[[:X&Y]]&rlm; |
+&rlm;[[:X-10 (מטוס ללא טייס)]]&rlm; |
+&rlm;[[:X-13 ורטיג'ט]]&rlm; |
+&rlm;[[:X-14]]&rlm; |
+&rlm;[[:X-15]]&rlm; |
+&rlm;[[:X-16]]&rlm; |
+&rlm;[[:X-17]]&rlm; |
+&rlm;[[:X-18]]&rlm; |
+&rlm;[[:X-19]]&rlm; |
+&rlm;[[:X-2 סטארבסטר]]&rlm; |
+&rlm;[[:X-21]]&rlm; |
+&rlm;[[:X-23 (קומיקס)]]&rlm; |
+&rlm;[[:X-23]]&rlm; |
+&rlm;[[:X-28]]&rlm; |
+&rlm;[[:X-29]]&rlm; |
+&rlm;[[:X-32]]&rlm; |
+&rlm;[[:X-3]]&rlm; |
+&rlm;[[:X-40]]&rlm; |
+&rlm;[[:X-44]]&rlm; |
+&rlm;[[:X-4]]&rlm; |
+&rlm;[[:X-55]]&rlm; |
+&rlm;[[:X-5]]&rlm; |
+&rlm;[[:X-7]]&rlm; |
+&rlm;[[:X-8]]&rlm; |
+&rlm;[[:X-9 שרייק]]&rlm; |
+&rlm;[[:X-COM (סדרת משחקים)]]&rlm; |
+&rlm;[[:X.25]]&rlm; |
+&rlm;[[:X11]]&rlm; |
+&rlm;[[:X2000]]&rlm; |
+&rlm;[[:X86-64]]&rlm; |
+&rlm;[[:X86]]&rlm; |
+&rlm;[[:XAML]]&rlm; |
+&rlm;[[:XB-21]]&rlm; |
+&rlm;[[:XD-Picture Card]]&rlm; |
+&rlm;[[:XF-91 ת'נדרספטור]]&rlm; |
+&rlm;[[:XFF]]&rlm; |
+&rlm;[[:XFL]]&rlm; |
+&rlm;[[:XHTML]]&rlm; |
+&rlm;[[:XKeyscore]]&rlm; |
+&rlm;[[:XL (משקה)]]&rlm; |
+&rlm;[[:XL איירווייז (גרמניה)]]&rlm; |
+&rlm;[[:XL איירווייז]]&rlm; |
+&rlm;[[:XLA]]&rlm; |
+&rlm;[[:XML]]&rlm; |
+&rlm;[[:XNOR לוגי]]&rlm; |
+&rlm;[[:XNU]]&rlm; |
+&rlm;[[:XOR]]&rlm; |
+&rlm;[[:XPS]]&rlm; |
+&rlm;[[:XSD]]&rlm; |
+&rlm;[[:XSL]]&rlm; |
+&rlm;[[:XSS-10]]&rlm; |
+&rlm;[[:XSS-11]]&rlm; |
+&rlm;[[:XSS]]&rlm; |
+&rlm;[[:XSplash]]&rlm; |
+&rlm;[[:X]]&rlm; |
+&rlm;[[:Xbox 360]]&rlm; |
+&rlm;[[:Xbox One]]&rlm; |
+&rlm;[[:Xbox]]&rlm; |
+&rlm;[[:Xcode]]&rlm; |
+&rlm;[[:Xen]]&rlm; |
+&rlm;[[:Xfce]]&rlm; |
+&rlm;[[:Xgl]]&rlm; |
+&rlm;[[:Xiaomi]]&rlm; |
+&rlm;[[:Xinu]]&rlm; |
+&rlm;[[:Xkcd]]&rlm; |
+&rlm;[[:Xnet]]&rlm; |
+&rlm;[[:Xonix]]&rlm; |
+&rlm;[[:Xorg.conf]]&rlm; |
+&rlm;[[:Xq28]]&rlm; |
+&rlm;[[:Xterm]]&rlm; |
+&rlm;[[:XviD]]&rlm; |
+&rlm;[[:XxxHOLIC]]&rlm;
+
+== Y ==
+&rlm;[[:Y Love]]&rlm; |
+&rlm;[[:Y בערב]]&rlm; |
+&rlm;[[:Y האיש האחרון]]&rlm; |
+&rlm;[[:Y(4140)]]&rlm; |
+&rlm;[[:Y.M.C.A. (שיר)]]&rlm; |
+&rlm;[[:YES-2 (לוויין)]]&rlm; |
+&rlm;[[:YKK Group]]&rlm; |
+&rlm;[[:YUM]]&rlm; |
+&rlm;[[:Y]]&rlm; |
+&rlm;[[:YafaRay]]&rlm; |
+&rlm;[[:Yahoo!]]&rlm; |
+&rlm;[[:Yeah Yeah Yeahs]]&rlm; |
+&rlm;[[:Year of the Gentleman]]&rlm; |
+&rlm;[[:Yellow (שיר)]]&rlm; |
+&rlm;[[:Yellow Submarine Songtrack]]&rlm; |
+&rlm;[[:Yellow Submarine]]&rlm; |
+&rlm;[[:Yer Blues]]&rlm; |
+&rlm;[[:Yersinia pestis]]&rlm; |
+&rlm;[[:Yes (אלבום)]]&rlm; |
+&rlm;[[:Yes Sir, I Can Boogie]]&rlm; |
+&rlm;[[:Yes stars ישראלי]]&rlm; |
+&rlm;[[:Yes דוקו]]&rlm; |
+&rlm;[[:Yes הטלוויזיה בלוויין]]&rlm; |
+&rlm;[[:Yesterday's Enterprise]]&rlm; |
+&rlm;[[:Yesterday]]&rlm; |
+&rlm;[[:Ynet]]&rlm; |
+&rlm;[[:Yo! Bum Rush the Show]]&rlm; |
+&rlm;[[:Yorick (שפת תכנות)]]&rlm; |
+&rlm;[[:You Are Not Alone]]&rlm; |
+&rlm;[[:You Can't Hurry Love]]&rlm; |
+&rlm;[[:You Never Give Me Your Money]]&rlm; |
+&rlm;[[:You Oughta Know]]&rlm; |
+&rlm;[[:You Suffer]]&rlm; |
+&rlm;[[:You da One]]&rlm; |
+&rlm;[[:You'll Never Walk Alone]]&rlm; |
+&rlm;[[:You're Going to Lose That Girl]]&rlm; |
+&rlm;[[:YouPhone]]&rlm; |
+&rlm;[[:YouTube]]&rlm; |
+&rlm;[[:Young Americans]]&rlm; |
+&rlm;[[:Younger Brother]]&rlm; |
+&rlm;[[:Your Body]]&rlm; |
+&rlm;[[:Your Country Needs You]]&rlm; |
+&rlm;[[:Your Love]]&rlm; |
+&rlm;[[:Your Song]]&rlm; |
+&rlm;[[:Yours Truly]]&rlm; |
+&rlm;[[:Youthanasia]]&rlm; |
+&rlm;[[:Yoü and I]]&rlm;
+
+== Z ==
+&rlm;[[:Z (סרט)]]&rlm; |
+&rlm;[[:Z-wave]]&rlm; |
+&rlm;[[:Z/Architecture]]&rlm; |
+&rlm;[[:Z/OS]]&rlm; |
+&rlm;[[:Z/VM]]&rlm; |
+&rlm;[[:Z/VSE]]&rlm; |
+&rlm;[[:Z1]]&rlm; |
+&rlm;[[:Z3]]&rlm; |
+&rlm;[[:ZAP70]]&rlm; |
+&rlm;[[:ZDNet]]&rlm; |
+&rlm;[[:ZFS]]&rlm; |
+&rlm;[[:ZIM (פורמט קובץ)]]&rlm; |
+&rlm;[[:ZIP (פורמט)]]&rlm; |
+&rlm;[[:ZMapp]]&rlm; |
+&rlm;[[:ZPP]]&rlm; |
+&rlm;[[:ZSU-23-4]]&rlm; |
+&rlm;[[:Z]]&rlm; |
+&rlm;[[:Zabriskie Point (אלבום)]]&rlm; |
+&rlm;[[:Zap group]]&rlm; |
+&rlm;[[:Zap דוקטורס]]&rlm; |
+&rlm;[[:Zap דפי זהב]]&rlm; |
+&rlm;[[:Zap השוואת מחירים]]&rlm; |
+&rlm;[[:Zastava Arms]]&rlm; |
+&rlm;[[:Zbrush]]&rlm; |
+&rlm;[[:Zebop!]]&rlm; |
+&rlm;[[:Zend Technologies]]&rlm; |
+&rlm;[[:Zerreißet, zersprenget, zertrümmert die Gruft]]&rlm; |
+&rlm;[[:Zeuhl]]&rlm; |
+&rlm;[[:ZiS-30]]&rlm; |
+&rlm;[[:ZigBee]]&rlm; |
+&rlm;[[:Ziggy Stardust - The Motion Picture]]&rlm; |
+&rlm;[[:Zivko Edge 540]]&rlm; |
+&rlm;[[:Zoo Tycoon 2]]&rlm; |
+&rlm;[[:ZoomText]]&rlm;
+
+== ¡ ==
+&rlm;[[:¡Dos!]]&rlm; |
+&rlm;[[:¡Uno!]]&rlm;
+
+== Á ==
+&rlm;[[:Águas de Março]]&rlm;
+
+== Ç ==
+&rlm;[[:Ç]]&rlm;
+
+== Ñ ==
+&rlm;[[:Ñ]]&rlm;
+
+== Þ ==
+&rlm;[[:Þ]]&rlm;
+
+== ß ==
+&rlm;[[:ß]]&rlm;
+
+== Ŋ ==
+&rlm;[[:Ŋ]]&rlm;
+
+== Ő ==
+&rlm;[[:Ő]]&rlm;
+
+== Ű ==
+&rlm;[[:Ű]]&rlm;
+
+== Ə ==
+&rlm;[[:Ə]]&rlm;
+
+== Μ ==
+&rlm;[[:ΜTorrent]]&rlm;
+
+== Ѓ ==
+&rlm;[[:Ѓ]]&rlm;
+
+== Џ ==
+&rlm;[[:Џ]]&rlm;
+
+== А ==
+&rlm;[[:А]]&rlm;

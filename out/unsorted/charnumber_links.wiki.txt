@@ -1,0 +1,4 @@
+charnumber_links
+[[:אפיפיורים]] (nap)	אפיפיורים
+[[:מטריצת מעבר]] (cs)	מטריצת מעבר
+&rlm;[[:AUTOEXEC.BAT]]&rlm; (en)	AUTOEXEC.BAT
